@@ -1,26 +1,31 @@
 # Hi there, I'm Beniam 👋 
 
-### 🚀 Full Stack Web Developer | Backend Specialist | DevOps Enthusiast
+### 🚀 Full Stack Developer | Backend & DevOps Specialist | AI & Automation Enthusiast
 
-I build scalable, high-performance web applications with a focus on robust backend architecture and seamless deployment pipelines.
+I build scalable systems, intelligent automations, and robust backend architectures. I love solving complex problems across the entire software development lifecycle (everything except games!).
 
 ---
 
 ### 🛠 Tech Stack
 
-#### **Frontend**
+#### **AI, ML & Automation**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,bootstrap,sass,css,figma,xd,ps" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,botpress,zapier" />
 </p>
 
 #### **Backend & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,firebase,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,firebase,graphql,redis" />
 </p>
 
-#### **DevOps & Tools**
+#### **DevOps & Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,githubactions,linux,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx,terraform,ansible" />
+</p>
+
+#### **Frontend & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,figma,ps" />
 </p>
 
 ---
