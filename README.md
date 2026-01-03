@@ -32,6 +32,6 @@ I build scalable systems, intelligent automations, and robust backend architectu
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/beniam-l" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" /></a>
+<a href="mailto:benonforever@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" /></a>
 </p>
