@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Backend & DevOps Specialist | AI & Automation Enthusiast
 
-I build scalable systems, intelligent automations, and robust backend architectures. I love solving complex problems across the entire software development lifecycle (everything except games!).
+I build scalable systems, intelligent automations, and robust backend architectures. I love solving complex problems across the entire software development lifecycle.
 
 ---
 
